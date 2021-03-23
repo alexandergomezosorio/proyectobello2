@@ -1,8 +1,14 @@
 p{font-size: 20px;
     color:rgb(109, 50, 205);
 }
-h1{ font-size: 20px;
+h1,h2{ font-size: 20px;
 color: rgb(64, 80, 224);}
 h3{font-size: 30px;
 color: tomato;}
 h3{font-style: oblique;}
+h3{text-align: center;}
+h1{text-align: center;}
+footer p{font-size: 20px;
+color: rgb(64, 80, 224);}
+a{font-size: 15px;
+color: tomato;}

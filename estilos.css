@@ -1,15 +1,18 @@
 p{font-size: 20px;
-    color:rgb(109, 50, 205);
+    color:whitesmoke;
 }
 h1,h2{ font-size: 20px;
-color: rgb(64, 80, 224);}
-h3{font-size: 30px;
-color: tomato;}
+color: whitesmoke;}
+h3{font-size: 40px;
+color: springgreen;}
 h3{font-style: oblique;}
 h3{text-align: center;}
 h1{text-align: center;}
 footer p{font-size: 20px;
-color: rgb(64, 80, 224);}
-a{font-size: 15px;
-color: tomato;}
-html{background-color:skyblue}
+color: whitesmoke;}
+a{font-size: 20px;
+color:springgreen;}
+html{background-color: blue;}
+header{color: springgreen;}
+
+

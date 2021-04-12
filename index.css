@@ -3,13 +3,15 @@ header{color: springgreen;}
 a{font-size: 20px;
  color:springgreen;
 font-style: oblique;}
-h1{text-align: center;}
-h1,h2{ font-size: 20px;
-color: whitesmoke;}
 h3{font-size: 40px;
 color: springgreen;
 font-style: oblique;
 text-align: center;}
+.historia{font-size: 20px;
+color: springgreen;}
+p{font-size: 15px;
+color: black;
+font-style: oblique;}
 footer {font-size: 20px;
 color: whitesmoke;}
 
